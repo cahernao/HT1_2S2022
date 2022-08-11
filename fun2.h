@@ -7,7 +7,7 @@ class fun2
 public:
     fun2();
     void menu();
-    void busca();
+    void crea();
 };
 
 #endif // FUN2_H

@@ -33,6 +33,7 @@ public:
 private:
     bool archivo_existe(string nombre);
     void registroProfesor();
+    void registroEstudiante();
     void revisar(profesor pp, estudiante ee);
     void imprime(profesor pp, estudiante ee);
 };
